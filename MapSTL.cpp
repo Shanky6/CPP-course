@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    //Maps are assosiative arrays.
+    //Maps are assosiative arrays.   
     map<string, int> marksStudents;
     marksStudents["Shbham"] = 98;
     marksStudents["Atul"] = 92;
